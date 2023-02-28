@@ -5,7 +5,7 @@
 1. `IMDB Web Scraping 1.R`
 2. `IMDB Web Scraping 2.R`
 3. `METACRITICS Web Scraping.R` - Web Scraped the movie names and links from the `all time best movies` category
-   * [Link To Metacritics](https://www.metacritic.com/browse/movies/score/metascore/all/filtered?sort=desc)
+   * [Link to Metacritics](https://www.metacritic.com/browse/movies/score/metascore/all/filtered?sort=desc)
 
 `SEM 6` folder contains two projects and one assignment namely,
 1. `Project 1` - EDA on Salary dataset
