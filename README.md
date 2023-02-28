@@ -8,4 +8,13 @@
 `SEM 6` folder contains two projects and one assignment namely,
 1. `Project 1` - EDA on Salary dataset
 2. `Project 2` - EDA on Titanic dataset
-3. `Assignment 1` - EDA on Indian Bikes dataset (Dataset Link: [Kaggle](https://www.kaggle.com/datasets/rajeshrampure/motorbikes-in-indian-market-2022))
+3. `Assignment 1` - EDA on Indian Bikes dataset 
+    * Dataset Link: [Kaggle](https://www.kaggle.com/datasets/rajeshrampure/motorbikes-in-indian-market-2022)
+    * Dataset pre-processed using `Python`
+    
+## How to use in R Studio
+1. Download and Install `R` and `R Studio` if not installed
+2. Download this repository and Extract
+3. Open R Studio and set the required project folder as directory
+   * Go to `Session -> Set Working Directory -> Choose Directory`
+4. Run the program and enjoy !
